@@ -13,6 +13,7 @@ public class DuplicateInArray
                 if(arr[i]==arr[j])
                 {
                     System.out.print(arr[i]+",");
+                    //test
                 }
             }
         }
