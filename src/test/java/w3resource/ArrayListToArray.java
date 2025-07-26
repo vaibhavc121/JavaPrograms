@@ -25,7 +25,7 @@ public class ArrayListToArray
             }
         }
         System.out.println(Arrays.toString(arr));
-        //test
+        //
 
 
 
