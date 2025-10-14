@@ -11,7 +11,7 @@ public class RemoveDuplicateFromArray
             {
                 if(no[i]==no[j])
                 {
-
+                    //test
                 }
             }
         }
