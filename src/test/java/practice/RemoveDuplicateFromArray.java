@@ -19,6 +19,7 @@ public class RemoveDuplicateFromArray
         }
 
         System.out.println(Arrays.toString(no));
+        //test
     }
 
 }
