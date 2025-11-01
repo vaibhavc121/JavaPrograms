@@ -16,8 +16,10 @@ public class RevString
             start++;
             end--;
         }
-        //String s1=new String(ch);
-        if(s.equals(ch))
+        String s1=new String(ch);
+        System.out.println(ch);
+        System.out.println(s1);
+        if(s1.equals(new String(ch)))
         {
             System.out.println("palin");
         }

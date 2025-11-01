@@ -20,6 +20,7 @@ public class OccurenceOfCharUsingHashmap
 
         for( Map.Entry<Character, Integer> entry:data.entrySet())
         {
+
             char key=entry.getKey();
             if(key=='b')
             {

@@ -4,7 +4,7 @@ public class Rev
 {
     public static void main(String[] args)
     {
-        int no=121;
+        int no=1234;
         int temp=no;
         int rev=0;
 
