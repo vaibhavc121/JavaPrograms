@@ -4,7 +4,7 @@ public class RevString
 {
     public static void main(String[] args)
     {
-        String s="nayan";
+        String s="abcd";
         char[] ch=s.toCharArray();
         int start=0;
         int end=ch.length-1;
@@ -19,7 +19,7 @@ public class RevString
         String s1=new String(ch);
         System.out.println(ch);
         System.out.println(s1);
-        if(s1.equals(new String(ch)))
+        if(s.equals(new String(ch)))
         {
             System.out.println("palin");
         }
