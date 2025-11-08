@@ -18,6 +18,7 @@ public class WordFreqInSentence
         System.out.println(data);
         System.out.println(data.keySet());
         System.out.println(data.entrySet());
+        System.out.println(data.values());
 
         for (Map.Entry<String, Integer> entry : data.entrySet())
         {

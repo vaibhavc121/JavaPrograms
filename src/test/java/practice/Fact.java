@@ -6,7 +6,7 @@ public class Fact
     {
         int no=5;
         int fact=1;
-        for(int i=1;i<=5;i++)
+        for(int i=1;i<=no;i++)
         {
             fact=fact*i;
         }
