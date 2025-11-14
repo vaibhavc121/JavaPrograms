@@ -21,7 +21,7 @@ public class DuplicateCharUsingMap
         for( Map.Entry<Character, Integer> entry:data.entrySet())
         {
             int value=entry.getValue();
-            if(value>1)
+            if(entry.getValue()>1)
             {
                 System.out.print(entry.getKey()+":"+entry.getValue()+", ");
             }

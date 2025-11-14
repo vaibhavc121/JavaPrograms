@@ -18,4 +18,6 @@ public class RemoveDuplicate
         }
         System.out.println(ch);
     }
+
+    //test
 }

@@ -13,7 +13,7 @@ public class CountChar
         Map<Integer, String> data = new HashMap<>();
         int counter = 0;
 
-        for (int i = 0; i < str.length(); i++)
+        for (int i = 1; i <= str.length(); i++)
         {
             //char ch=str.charAt(i);
             counter++;
