@@ -26,6 +26,7 @@ public class RemoveDuplicateFromList
         }
 
         System.out.println(data1);
+        //test
 
     }
 }
