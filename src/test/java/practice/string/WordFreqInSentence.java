@@ -25,7 +25,7 @@ public class WordFreqInSentence
             String key = entry.getKey();
             if (key.equals("am"))
             {
-                System.out.println(entry.getValue());
+                System.out.println(entry.getKey()+":"+entry.getValue());
             }
         }
     }
