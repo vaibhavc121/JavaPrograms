@@ -15,5 +15,18 @@ public class OccOfChar
             }
         }
         System.out.println(counter);
+
+//        String s="vaibhav vaibhav chavan";
+//        int counter=0;
+//        String[] ch=s.split(" ");
+//
+//        for(int i=0;i<ch.length;i++)
+//        {
+//            if(ch[i].equals("vaibhav"))
+//            {
+//                counter++;
+//            }
+//        }
+//        System.out.println(counter);
     }
 }

@@ -8,6 +8,8 @@ public class FindDistinctWordFromWord
 {
     public static void main(String[] args)
     {
+        //use hashmap valueCount<2
+
         String str="vaibhav";
         char[] ch=str.toCharArray();
 

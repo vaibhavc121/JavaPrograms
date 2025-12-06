@@ -11,6 +11,7 @@ public class LastfourCharFromString
         System.out.println(s2);
         System.out.println(s.substring(s2));
         System.out.println(s.substring(s.length()-4));
+        System.out.println(s.substring(1,2));
     }
 
 

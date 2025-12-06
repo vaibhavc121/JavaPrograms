@@ -6,6 +6,8 @@ public class FindDistinctWordFromString
 {
     public static void main(String[] args)
     {
+        //use hashmap valueCount<2
+
         String str="vaibhav vaibhav chavan";
         String[] arr=str.split(" ");
 

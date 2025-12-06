@@ -10,11 +10,13 @@ public class CountOddEvenNo
         {
             if(i%2==0)
             {
-                evensum=evensum+i;
+                //evensum=evensum+i;
+                evensum++;
             }
             else
             {
-                oddsum=oddsum+i;
+                //oddsum=oddsum+i;
+                oddsum++;
             }
         }
         System.out.println(evensum);
