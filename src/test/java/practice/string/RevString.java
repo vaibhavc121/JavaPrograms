@@ -4,7 +4,7 @@ public class RevString
 {
     public static void main(String[] args)
     {
-        String s="abcd";
+        String s="vaibhav chavan";
         char[] ch=s.toCharArray();
         int start=0;
         int end=ch.length-1;
@@ -27,7 +27,7 @@ public class RevString
         {
             System.out.println("not palin");
         }
-        //test
+        //
 
     }
 }
